@@ -1,4 +1,4 @@
-## Hi there 👋 Shubh here. Thanks for stopping by!
+# Hi there 👋 Shubh here. Thanks for stopping by!
 
 I'm studying Electrical Engineering and Computer Science at Stanford. Right now I'm building applied AI systems across multilingual NLP, autonomous agents, and consumer products. On campus, I'm focused on systems, infrastructure, and turning ideas into deployed products.
 
