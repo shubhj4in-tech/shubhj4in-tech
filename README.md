@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# What's up, Shubh here. Thanks for stopping by!
+# Hi there 👋 Shubh here. Thanks for stopping by!
 
 I'm studying Electrical Engineering and Computer Science at Stanford. Right now I'm building applied AI systems across multilingual NLP, autonomous agents, and consumer products. On campus, I'm focused on systems, infrastructure, and turning ideas into deployed products.
 
@@ -17,13 +15,9 @@ Right now, I'm exploring:
 - Compute budgeting in autonomous agents
 - Large-scale human POV data pipelines for robotics
 
----
-
-## Arts and Hobbies
+## Hobbies
 
 When I'm not building, I'm usually playing basketball, analysing my chess game, or studying poker theory. I'm fascinated by decision-making under uncertainty and how incentives shape behavior, both in markets and in code.
-
----
 
 ## Fun Facts
 
