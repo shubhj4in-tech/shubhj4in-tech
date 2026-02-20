@@ -33,9 +33,8 @@ Systems: Supabase, Postgres, Vector Databases, REST APIs
 Areas: NLP, RAG, AI Product Architecture, Data Pipelines, Growth Systems
 ```
 
-## Contact
+# Contact
 
-- **LinkedIn**: [linkedin.com/in/shubhjain](https://linkedin.com/in/shubhjain)
 - **Email**: shubhjn [at] stanford [dot] edu
 
 Always happy to chat.-->
