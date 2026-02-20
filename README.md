@@ -2,7 +2,7 @@
 
 I'm studying Electrical Engineering and Computer Science at Stanford. Right now I'm building applied AI systems across multilingual NLP, autonomous agents, and consumer products. On campus, I'm focused on systems, infrastructure, and turning ideas into deployed products.
 
-# Research & Engineering
+## Research & Engineering
 
 I'm interested in retrieval systems, agent infrastructure, robotics data workflows, and applied AI that survives real-world constraints.
 
@@ -15,17 +15,17 @@ Right now, I'm exploring:
 - Compute budgeting in autonomous agents
 - Large-scale human POV data pipelines for robotics
 
-# Hobbies
+## Hobbies
 
 When I'm not building, I'm usually playing basketball, analysing my chess game, or studying poker theory. I'm fascinated by decision-making under uncertainty and how incentives shape behavior, both in markets and in code.
 
-# Fun Facts
+## Fun Facts
 
 - I built and exited my first AI startup before starting college.
 - My friends call me the 'vibecoding demon'.
 - I want to finish the Ironman marathon before I am 25.
 
-# Tech Arsenal
+## Tech Arsenal
 
 ```
 Languages: Python, Swift, JavaScript, SQL
@@ -33,7 +33,7 @@ Systems: Supabase, Postgres, Vector Databases, REST APIs
 Areas: NLP, RAG, AI Product Architecture, Data Pipelines, Growth Systems
 ```
 
-# Contact
+## Contact
 
 - **Email**: shubhjn [at] stanford [dot] edu
 
